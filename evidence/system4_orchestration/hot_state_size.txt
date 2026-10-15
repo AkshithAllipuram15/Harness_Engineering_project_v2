@@ -1,0 +1,1 @@
+965 bytes — data/hot_state.json after recorded-response Shift C run

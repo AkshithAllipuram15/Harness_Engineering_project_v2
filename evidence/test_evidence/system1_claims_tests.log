@@ -1,0 +1,5 @@
+System: System 1 — stop_reason-driven agentic loop
+Project path: /mnt/data/final_work/Akshith-Harness-Engineering-Capstone/Build a Claims Intake Agent with a stop_reason-Driven Loop/exercises/03-dynamic-decomposition/solution
+Command: pytest -q -o addopts=''
+..............................                                           [100%]
+30 passed in 0.12s
